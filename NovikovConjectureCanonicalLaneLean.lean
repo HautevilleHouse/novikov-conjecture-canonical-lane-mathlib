@@ -1,0 +1,7 @@
+-- This module is the root of the NovikovConjectureCanonicalLaneLean Lean proof package.
+import NovikovConjectureCanonicalLaneLean.Basic
+import NovikovConjectureCanonicalLaneLean.SourcePackage
+import NovikovConjectureCanonicalLaneLean.SourceDependencies
+import NovikovConjectureCanonicalLaneLean.Formalization
+import NovikovConjectureCanonicalLaneLean.ReviewerBridge
+import NovikovConjectureCanonicalLaneLean.TheoremStatement
